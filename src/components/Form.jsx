@@ -6,13 +6,13 @@ import Button from "./Button";
 
 import styles from "./Form.module.css";
 
-export function convertToEmoji(countryCode) {
-  const codePoints = countryCode
-    .toUpperCase()
-    .split("")
-    .map((char) => 127397 + char.charCodeAt());
-  return String.fromCodePoint(...codePoints);
-}
+// export function convertToEmoji(countryCode) {
+//   const codePoints = countryCode
+//     .toUpperCase()
+//     .split("")
+//     .map((char) => 127397 + char.charCodeAt());
+//   return String.fromCodePoint(...codePoints);
+// }
 
 function Form() {
   const [cityName, setCityName] = useState("");
@@ -22,7 +22,6 @@ function Form() {
 
   const navigate = useNavigate();
 
-  console.log(country, setCountry);
   return (
     <form className={styles.form}>
       <div className={styles.row}>

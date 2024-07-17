@@ -17,5 +17,7 @@ module.exports = {
       "warn",
       { allowConstantExport: true },
     ],
+    "no-unused-vars": ["warn", { destructuredArrayIgnorePattern: "^_" }],
+    "react-refresh/only-export-components": "off",
   },
 };

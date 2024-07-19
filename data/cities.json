@@ -47,54 +47,6 @@
         "lat": "1.0325838415221718",
         "lng": "104.12927091121675"
       }
-    },
-    {
-      "id": "c3da",
-      "cityName": "Alcadozo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-19T06:59:28.206Z",
-      "notes": "b aja",
-      "position": {
-        "lat": "38.685509760012025",
-        "lng": "-2.1093750000000004"
-      }
-    },
-    {
-      "id": "e60e",
-      "cityName": "’Ain Deheb",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2024-07-19T07:02:41.677Z",
-      "notes": "sadas",
-      "position": {
-        "lat": "34.79576153473033",
-        "lng": "1.5380859375000002"
-      }
-    },
-    {
-      "id": "398e",
-      "cityName": "Arbaouat",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2024-07-19T07:04:28.779Z",
-      "notes": "s",
-      "position": {
-        "lat": "33.04550781490999",
-        "lng": "0.5712890625000001"
-      }
-    },
-    {
-      "id": "517f",
-      "cityName": "El Menia",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2024-07-19T07:05:07.390Z",
-      "notes": "",
-      "position": {
-        "lat": "30.637912028341123",
-        "lng": "3.0761718750000004"
-      }
     }
   ]
 }

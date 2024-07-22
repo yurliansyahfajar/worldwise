@@ -47,6 +47,30 @@
         "lat": "1.0325838415221718",
         "lng": "104.12927091121675"
       }
+    },
+    {
+      "id": "fbf7",
+      "cityName": "Singapore",
+      "country": "Singapore",
+      "emoji": "🇸🇬",
+      "date": "2024-07-22T02:42:45.614Z",
+      "notes": "Best family vacation ever!",
+      "position": {
+        "lat": "1.33746396806039",
+        "lng": "103.82629394531251"
+      }
+    },
+    {
+      "id": "bd10",
+      "cityName": "Malang",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2024-07-22T02:47:29.606Z",
+      "notes": "My College life!",
+      "position": {
+        "lat": "-7.954139878750536",
+        "lng": "112.6148146390915"
+      }
     }
   ]
 }

@@ -10,7 +10,7 @@ const formatDate = (date) =>
     day: "numeric",
     month: "long",
     year: "numeric",
-    weekday: "long",
+    weekday: "long"
   }).format(new Date(date));
 
 function City() {
@@ -21,7 +21,7 @@ function City() {
     function () {
       getCityById(id);
     },
-    [id]
+    [id, getCityById]
   );
 
   const { cityName, emoji, date, notes } = currentCity;
